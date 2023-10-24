@@ -6,7 +6,7 @@ DBML-go is a Go parser for [DBML](https://www.dbml.org) syntax.
 ## Go model generate
 
 ```bash
-go install github.com/gzwillyy/dbml-go/cmd/dbml-go-gen-model@v1.0.0
+go install github.com/gzwillyy/dbml-go/cmd/dbml-go-gen-model@v1.0.1
 ```
 
 ```
